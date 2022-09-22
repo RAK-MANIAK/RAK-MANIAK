@@ -13,8 +13,8 @@
 <table>
 <thead>
 <tr>
-<th><a href="https://github.com/rak-maniak/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rak-maniak&amp;show_icons=true&amp;theme=buefy&amp;hide_border=true" alt="rak-maniak" style="max-width: 100%;"></a></th>
-<th><a href="https://github.com/rak-maniak/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rak-maniak&amp;layout=compact&amp;theme=buefy&amp;hide_border=true" style="max-width: 100%;"></a></th>
+<th><a href="https://github.com/RAK-MANIAK/RAK-MANIAK"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rak-maniak&amp;show_icons=true&amp;theme=buefy&amp;hide_border=true" alt="rak-maniak" style="max-width: 100%;"></a></th>
+<th><a href="https://github.com/RAK-MANIAK/RAK-MANIAK"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rak-maniak&amp;layout=compact&amp;theme=buefy&amp;hide_border=true" style="max-width: 100%;"></a></th>
 </tr>
 </thead>
 </table>
