@@ -7,6 +7,9 @@
 <p align="left">
 <a href="https://fb.com/profile.php?id=100012196578914" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100012196578914" height="30" width="40" /></a>
 <a href="https://instagram.com/kuku_ot_vlada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kuku_ot_vlada" height="30" width="40" /></a>
+<a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=mankivskiy.vlsd@gmail.com" target="blank"><img align="center" src="https://camo.githubusercontent.com/dbab71871d0983dad651385ed50ccc2882e3832f9d0f424f51ba5e9fcc143af0/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f382f38632f476d61696c5f49636f6e5f253238323031332d323032302532392e737667" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Gmail_Icon_%282013-2020%29.svg" alt="mankivskiy.vlsd@gmail.com" height="30" width="40" /></a>
+<a href="https://t.me/assembler_18" target="blank"><img align="center" src="https://user-images.githubusercontent.com/49933115/139837223-bf23d3a9-4638-4e17-994a-ac8678d5f517.png" alt="assembler_18" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
