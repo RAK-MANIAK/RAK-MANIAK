@@ -1,6 +1,6 @@
 # Hi there 👋
 
-![GITHUB_STATS] ![GITHUB_STREAK]
+![GITHUB_STATS]![GITHUB_STREAK]
 
 
 ![PROFILE_VIEWS] <img alt="mona-whisper"  width="50" align="right" src="https://github.githubassets.com/images/mona-whisper.gif"/>
