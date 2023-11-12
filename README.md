@@ -9,7 +9,7 @@
 
 [TOP_LANGS]: https://github-readme-stats.vercel.app/api/top-langs/?username=rak-maniak&show_icons=true&theme=dark&locale=en&count_private=true&hide=stars,issues
 
-[GITHUB_STATS]: https://github-readme-stats.vercel.app/api?username=rak-maniak&exclude_repo=rak-maniak&show_icons=true&theme=dark&locale=en&count_private=true&hide=stars,issues&hide_border=true&bg_color=0D1117&card_width=290
+[GITHUB_STATS]: https://github-readme-stats.vercel.app/api?username=rak-maniak&show_icons=true&theme=dark&locale=en&count_private=true&hide=stars,issues&hide_border=true&bg_color=0D1117&card_width=290
 
 [GITHUB_STREAK]: https://github-readme-streak-stats.herokuapp.com/?user=rak-maniak&theme=dark&hide_border=true&background=0D1117&card_width=400
 
